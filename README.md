@@ -1,0 +1,2 @@
+# simulasi.js
+simulasi
